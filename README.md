@@ -1,4 +1,4 @@
-# jesus-yo
+# Mi Primer Repositorio
 Primer repo creado en GitHub
-## descripcion
-Este es mi primer repo
+## Descripción
+Este es mi primer repositorio
